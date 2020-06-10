@@ -21,7 +21,7 @@
     4. DO NOT edit or delete any folders or files in the Project. You are only allowed to run the application.
     5. An additional "Practice folder" is provided as a WorkSpace where can you modify or add new files or folders to practice.
 - ## How to use GitLearn !!
-     <img src="img/home.jpg" width="500" height="300">
+     <img src="img/home.jpg" width="500" height="300"><br>
      You can see the HOME tab of GitLearn. Here we have five sections.
 - ## Section I - Introduction to Git
     This section gives you basic overview on Git. It deals with Version Control System and its types. Also we will see What is Git? and the Life Cycle of Git. 
