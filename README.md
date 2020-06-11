@@ -5,7 +5,7 @@
     <img src="img/gitlearn.jpg" width="500" height="300">
 
 - ## Important Note
-    1. Before getting started, make sure you have downloaded the application [GitLearn](https://drive.google.com/file/d/1Bmztt9qhCT6vtKvMtloRf2UBx7aNAJJV/view?usp=sharing) on your laptop or PC.
+    1.Before getting started, make sure you have downloaded the application [GitLearn](https://drive.google.com/file/d/1Bmztt9qhCT6vtKvMtloRf2UBx7aNAJJV/view?usp=sharing) on your laptop or PC.
     2. If you don't have Git on your system, you must install [Chocolatey](https://chocolatey.org/docs/installation), software management automation for Windows.
         - To Install with cmd.exe, Run the following command:
         ```
@@ -17,7 +17,7 @@
         ``` 
         For installing Chocolatey watch this [video](https://www.youtube.com/watch?v=KTUO1g_Btfk) if you have any queries.
 
-    3. We have provided logs folder where you can track the status.
+    3.We have provided logs folder where you can track the status.
     4. DO NOT edit or delete any folders or files in the Project. You are only allowed to run the application.
     5. An additional "Practice folder" is provided as a WorkSpace where can you modify or add new files or folders to practice.
 - ## How to use GitLearn !!
